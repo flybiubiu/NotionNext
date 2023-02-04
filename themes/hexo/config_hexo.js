@@ -1,6 +1,6 @@
 const CONFIG_HEXO = {
   HOME_BANNER_ENABLE: true,
-  HOME_BANNER_GREETINGS: ['Hi，I am Microcoder', 'Hi, Welcome'], // 首页大图标语文字
+  HOME_BANNER_GREETINGS: ['Hi, I am Microcoder', 'Hi, Welcome'], // 首页大图标语文字
 
   HOME_NAV_BUTTONS: true, // 首页是否显示分类大图标按钮
 
